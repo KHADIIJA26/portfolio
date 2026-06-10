@@ -7,3 +7,4 @@ Ceci est mon portfolio personnel.
 - Projects
 - Contact
 ## About
+## Projects
