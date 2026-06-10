@@ -8,3 +8,4 @@ Ceci est mon portfolio personnel.
 - Contact
 ## About
 ## Projects
+## Contact
